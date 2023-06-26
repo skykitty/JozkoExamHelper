@@ -18,10 +18,10 @@ function renderTable() {
   // Vykreslení řádků tabulky pro každou odpovídající otázku a odpověď
   filteredData.forEach(item => {
       const row = table.insertRow();
-      const questionCell = row.insertCell(0);
-      const answerCell = row.insertCell(1);
+      //const questionCell = row.insertCell(0);
+      const answerCell = row.insertCell(0);
 
-      questionCell.innerHTML = item.otazka;
+      //questionCell.innerHTML = item.otazka;
       answerCell.innerHTML = item.odpoved;
   });
 }

@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "CSV Search Extension",
+    "name": "Jozkos Exam Helper",
     "version": "1.0",
-    "description": "Search questions and answers in a CSV file",
+    "description": "Search questions and answers for your final exam",
     "permissions": ["storage"],
     "action": {
       "default_popup": "popup.html"
