@@ -14,7 +14,7 @@ def main():
     questions = read_questions_from_file(file_path)
 
     for question in questions:
-        time.sleep(4)
+        time.sleep(1)
         pyautogui.press('{')
         pyautogui.write(" otazka: ")
         pyautogui.write(f"'{question['otazka']}', ")

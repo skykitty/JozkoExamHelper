@@ -1,0 +1,5 @@
+What is the capital of India?,New Delhi
+How many states are there in India?,29
+Is India a country?,Yes
+Where is Taj Mahal?,Agra
+Which is the largest state in India?,Rajasthan

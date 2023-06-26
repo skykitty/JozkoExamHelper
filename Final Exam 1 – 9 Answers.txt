@@ -1,0 +1,159 @@
+In which situation would an ESD strike potentially cause harm to the PC?,when replacing a mechanical hard drive with an M.2 SSD
+A person has started a new technical job. In which situation would ESD be an issue?,when installing a processor
+A technician is about to begin preventive maintenance on a company PC. In which situation would ESD be an issue?,when replacing a motherboard
+A technician is about to begin preventive maintenance on a company PC. In which situation would ESD be an issue?,when installing RAM
+In which situation would an ESD strike potentially cause harm to the PC?,when replacing a mechanical hard drive with an M.2 SSD
+An instructor has given a student an assignment to assemble a PC. In which situation should the student be aware that ESD is an issue?,when installing RAM
+A technician is about to begin preventive maintenance on a company PC. In which situation would ESD be an issue?,when replacing a motherboard
+A person has started a new technical job. In which situation would ESD be an issue?,when installing a processor
+A technician is about to begin preventive maintenance on a company PC. In which situation would ESD be an issue?,when replacing a motherboard
+In which situation would an ESD strike potentially cause harm to the PC?,when replacing a mechanical hard drive with an M.2 SSD
+What two motherboard components control the system boot operations?,BIOS chip-UEFI chip
+A technician is upgrading an ATX motherboard with another ATX motherboard. Which component might be affected by this and need to be upgraded and bought as an additional purchase?,CPU
+A customer has requested that a PC be built that will support eSATA. Which component should be checked to be sure that this feature is supported?,chipset
+Which memory module used to hold instructions for booting a PC and loading the OS but is still used on adapters even though the memory contents cannot be changed?,ROM
+What is a characteristic of DDR SDRAM?,It transfers data twice per clock cycle compared to once per clock cycle for SDRAM.
+What are two safety hazards when dealing with laser printers?,high voltage - hot components
+Which component requires a technician to install screws externally through the PC case?,power supply
+A technician is installing an internal HDD. To which motherboard connector will the technician connect the data cable?,SATA
+Refer to the exhibit. A technician has been asked to install a video card. Which section of the motherboard will the technician use to install the card?,section D
+When a PC is being assembled what component is connected to the motherboard with a SATA cable?,the optical drive
+A technician is troubleshooting a computer that is experiencing hardware failure detected by the BIOS. What is one way this failure is indicated?,The computer emits a pattern of beeps indicating the failing device.
+Which three features can be configured in the BIOS settings to secure a computer?,drive encryption-TPM-passwords
+What is the purpose of RAID adapters?,to connect multiple storage devices for redundancy or speed
+When a new motherboard is being installed between which two components must thermal compound be applied?,CPU-heat sink
+What is the purpose of a Safety Data Sheet?,to specify procedures for dealing with potentially hazardous materials
+Which negative environmental factor does cleaning the inside of a computer reduce?,dust
+What is a recommended procedure to follow when cleaning computer components?,Hold cans of compressed air upright while spraying
+On the production floor a furniture plant has laptops for process monitoring and reporting. The production floor environment is around 80 degrees Fahrenheit (27 degrees Celsius). The humidity level is fairly high around 70 percent. Fans are mounted in the ceiling for air circulation. Wood dust is prevalent. Which condition is most likely to adversely affect a laptop that is used in this environment?,the dust
+After a technician tests a theory of probable causes what two actions should the technician take if the testing did not identify an exact cause?,Establish a new theory of probable causes-Document each test tried that did not correct the problem
+What would happen if a PC that contains a power supply that does not automatically adjust for input voltage is set to 230 volts and attaches to an outlet in the United States?,The PC would not turn on.
+Which type of network spans a single building or campus and provides services and applications to people within a common organizational structure?,LAN
+What are two types of wired high-speed Internet connections?,cable-DSL
+In what two situations would UDP be better than TCP as the preferred transport protocol?,when a faster delivery mechanism is needed-when applications do not need to guarantee delivery of the data
+The current IP configuration of a small company is done manually and is time-consuming. Because of increased network growth a technician needs a simpler way for IP configuration of workstations. Which service would simplify the workstation IP configuration task?,DHCP
+A company is looking for a next-generation firewall that provides VPN functionality IDS/IPS functionality and DoS/DDoS protection. Which device would be best suited for this task?,UTM
+A student is helping a friend with a home computer that can no longer access the Internet. Upon investigation the student discovers that the computer has been assigned the IP address 169.254.100.88. What could cause a computer to get such an IP address?,unreachable DHCP server
+What three values must be added to the IPv4 properties of a NIC in order for a computer to have basic connectivity with the network?,subnet mask-default gateway-IP address
+A device has an IPv6 address of 2001:0DB8:75a3:0214:0607:1234:aa10:ba01 /64. What is the host identifier of the device?,0607:1234:aa10:ba01
+How can a user prevent specific applications from accessing a Windows computer over a network?,Block specific TCP or UDP ports in Windows Firewall.
+Place the six stages of the troubleshooting process in the correct order,Search Step1-Step2-Step3-Step4-Step5-Step6
+A technician has been asked to configure Wi-Fi calling on a corporate mobile device. In which situation would this feature be most advantageous?,when in an area with poor cellular coverage
+Which statement is true about laptops?,Most of the internal components that are designed for laptops cannot be used for desktops.
+Which standard provides a bridge between laptop hardware and the operating system and a way for technicians to configure power management schemes to get the best performance?,ACPI
+Which two laptop components are considered replaceable by the customer,battery-RAM
+A user wants to synchronize some apps movies music and ebooks between mobile devices. What are the two types of connections used to synchronize this type of data?,WiFi-USB
+A technician is explaining the differences between inkjet printers and laser printers to a customer. Which two comparisons should the technician make?,Inkjet printers are less expensive as an initial purchase than laser printers.-The laser printer output is dry after printing but an inkjet printer may still have wet ink on the paper after printing.
+A user chooses the collate option and prints two copies of a three-page document. What is the order in which the pages are printed?,pages 1-2-3-1-2-3
+A color laser printer is used to print documents with graphics and photographs. Users are complaining that printing takes too long. Which component of the printer should be upgraded in order to improve printing performance?,RAM
+What service is available for Windows to provide software print server services to MAC OS clients?,Bonjour Print Server
+Which three components are typically found in laser printer maintenance kits?,fuser assembly-pickup rollers-transfer rollers
+A technician is installing a new printer in a cool damp environment. After the printer cabling is done and the software and print driver are installed the printer test page jams. What is the most likely cause of the print failure?,too much humidity
+A data center has recently updated a physical server to host multiple operating systems on a single CPU. The data center can now provide each customer with a separate web server without having to allocate an actual discrete server for each customer. What is the networking trend that is being implemented by the data center in this situation?,virtualization
+How does virtualization help with disaster recovery within a data center?,Hardware does not have to be identical.
+Which two hypervisors are suitable to support virtual machines in a data center?,VMware ESX/ESXi-Microsoft Hyper-V 2012
+A web designer accesses a company Windows 10 computer remotely. The designer often needs to simultaneously open multiple applications such as a web page editor and a graphics editor. Rather than opening them in multiple windows the designer opens them in different virtual desktops. What technology is being used by the designer?,Windows Virtual Desktop
+Which Cloud computing service would be best for an organization that needs to collaboratively create applications and deliver them over the web?,PaaS
+Which statement describes a feature of SDRAM?,It can process overlapping instructions in parallel.
+Match the memory type to the feature.,Search: "It's connector has"
+A technician is troubleshooting a server that displays the error message “RAID not found” after a power outage over the weekend. What is a possible cause for this?,The external RAID controller is not receiving power.
+A customer brings in a laptop with a touch screen that is not working correctly. The touch screen either does not respond at all or provides unusual or inaccurate responses. What is a possible cause for such behavior?,Too many apps are open.
+What are two security risks associated with sharing printers in a corporate environment?,user authentication-cached files
+Which change management process component is concerned with the business processes that are affected by changes?,assessment
+Match the problem to the possible solution.,Search: MTP
+A computer technician is installing a RAID. If the RAID uses mirroring and striping which RAID level is the technician using?,10
+A computer technician is installing a RAID. If the RAID uses mirroring which RAID level is the technician using?,1
+A computer technician is installing a RAID. If the RAID uses striping with parity which RAID level is the technician using?,5
+A computer technician is installing a RAID. If the RAID uses striping which RAID level is the technician using?,0
+A computer technician is installing a RAID. If the RAID uses striping with double parity which RAID level is the technician using?,6
+A computer technician is installing a RAID. If the RAID uses striping with double parity which RAID level is the technician using?,6
+A computer technician is installing a RAID. If the RAID uses mirroring which RAID level is the technician using?,1
+A computer technician is installing a RAID. If the RAID uses mirroring and striping which RAID level is the technician using?,10
+A computer technician is installing a RAID. If the RAID uses striping with parity which RAID level is the technician using?,5
+A computer technician is installing a RAID. If the RAID uses striping which RAID level is the technician using?,0
+A technician is upgrading many PCs used within the company. How should the technician dispose of an old battery?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of a broken monitor?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of an old power supply?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of old RAM?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of old RAM?,Recycle following local regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step1:,Identify the problem.
+Step2:,Establish a theory of probable cause.
+Step3:,Test the theory to determine the cause.
+Step4:,Establish a plan of action to resolve the problem and implement the solution.
+Step5:,Verify full system functionallity and if applicable, implement preventive measures.
+Step6:,Document findings actions and outcomes.
+
+It's connector has 184 pins and is able to support two writes and two reads per CPU clock cycle:,DDR SDRAM
+It's connector has 240 pins and consumes 1.8 Volts of power:,DDR2 SDRAM
+It's connector has 240 pins and consumes 1.5 Volts of power:,DDR3 SDRAM
+It's connector has 288 pins and has advanced error correction features available:,DDR4 SDRAM
+
+MTP Replace the motherboard:,The motherboard capacitors are distended, swollen, emitting residue, or bulging.
+MTP Check fo faulting cable, damaged or mis-seated CPU or other motherbard component prior to replacing the motherboard if required:,The user can hear the fans spinning but the PC will not start and there are no beeps from the speaker.
+MTP Update the BIOS firmware:,After upgrading the single core CPU to a dual core CPU only one CPU graph is seen in the task manager.
+MTP Connect the auxillary power cable for the adapter card:,The computer does not display any video after installing a new PCIe video card.
