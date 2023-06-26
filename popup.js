@@ -1,9 +1,3 @@
-const data = [
-  { otazka: 'První otázka', odpoved: 'První odpověď' },
-  { otazka: 'Druhá otázka', odpoved: 'Druhá odpověď' },
-  { otazka: 'Třetí otázka', odpoved: 'Třetí odpověď' },
-  // Přidejte další otázky a odpovědi podle potřeby
-]
 // Funkce pro vykreslení tabulky s otázkami a odpověďmi
 function renderTable() {
   const table = document.getElementById('question-table');
@@ -37,3 +31,10 @@ window.onload = renderTable;
 
 // Při změně hodnoty v hledacím poli vykreslíme tabulku znovu
 document.getElementById('search-bar').addEventListener('input', renderTable);
+
+const data = [
+  { otazka: 'První otázka', odpoved: 'První odpověď' },
+  { otazka: 'Druhá otázka', odpoved: 'Druhá odpověď' },
+  { otazka: 'Třetí otázka', odpoved: 'Třetí odpověď' },
+  // Přidejte další otázky a odpovědi podle potřeby
+]
