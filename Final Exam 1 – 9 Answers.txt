@@ -76,83 +76,108 @@ A technician is upgrading many PCs used within the company. How should the techn
 A technician is upgrading many PCs used within the company. How should the technician dispose of an old power supply?,Recycle following local regulations.
 A technician is upgrading many PCs used within the company. How should the technician dispose of old RAM?,Recycle following local regulations.
 A technician is upgrading many PCs used within the company. How should the technician dispose of old RAM?,Recycle following local regulations.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A technician is upgrading many PCs used within the company. How should the technician dispose of an old motherboard?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of an old hard drive?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of an old hard drive?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of an old battery?,Recycle following local regulations.
+A technician is upgrading many PCs used within the company. How should the technician dispose of an old battery?,Recycle following local regulations.
+After continuous morning use a computer suddenly reboots without the intervention of the user. What are the two most likely hardware parts that could cause this problem?,CPU-power supply
+After continuous morning use a computer suddenly reboots without the intervention of the user. What are the two most likely hardware parts that could cause this problem?,CPU-power supply
+After continuous morning use a computer suddenly reboots without the intervention of the user. What are the two most likely hardware parts that could cause this problem?,CPU-power supply
+A technician has been called in to investigate a problem with the computer rebooting randomly throughout the day. What two pieces of hardware could cause this problem?,power supply-CPU
+A technician has been called in to investigate a problem with the computer rebooting randomly throughout the day. What two pieces of hardware could cause this problem?,power supply-CPU
+For two days in a row a user has noticed that the computer reboots several times before it eventually starts. What are two suspect components?,power supply-CPU
+For two days in a row a user has noticed that the computer reboots several times before it eventually starts. What are two suspect components?,power supply-CPU
+While a user is working on a spreadsheet the computer reboots. What are two components that could cause this issue?,power supply-CPU
+While a user is working on a spreadsheet the computer reboots. What are two components that could cause this issue?,power supply-CPU
+After continuous morning use a computer suddenly reboots without the intervention of the user. What are the two most likely hardware parts that could cause this problem?,CPU-power supply
+A client packet is received by a server. The packet has a destination port number of 137. What service application is the client requesting?,NetBIOS (NetBT)
+A client packet is received by a server. The packet has a destination port number of 22. What service application is the client requesting?,SSH
+A client packet is received by a server. The packet has a destination port number of 143. What service application is the client requesting?,IMAP
+A client packet is received by a server. The packet has a destination port number of 23. What service application is the client requesting?,Telnet
+A client packet is received by a server. The packet has a destination port number of 161. What service application is the client requesting?,SNMP
+A client packet is received by a server. The packet has a destination port number of 389. What service application is the client requesting?,LDAP
+A client packet is received by a server. The packet has a destination port number of 25. What service application is the client requesting?,SMTP
+A client packet is received by a server. The packet has a destination port number of 427. What service application is the client requesting?,SLP
+A client packet is received by a server. The packet has a destination port number of 53. What service application is the client requesting?,DNS
+A client packet is received by a server. The packet has a destination port number of 427. What service application is the client requesting?,SLP
+Which is the compressed format of the IPv6 address 2001:0db8:0000:0000:0000:a0b0:0008:0001?,2001:db8::a0b0:8:1
+Which is the compressed format of the IPv6 address fe80:09ea:0000:2200:0000:0000:0fe0:0290?,fe80:9ea:0:2200::fe0:290
+Which is the compressed format of the IPv6 address 2002:0042:0010:c400:0000:0000:0000:0909?,2002:42:10:c400::909
+Which is the compressed format of the IPv6 address fe80:09ea:0000:2200:0000:0000:0fe0:0290?,fe80:9ea:0:2200::fe0:290
+Which is the compressed format of the IPv6 address 2002:0420:00c4:1008:0025:0190:0000:0990?,2002:420:c4:1008:25:190::990
+Which is the compressed format of the IPv6 address 2001:0db8:0000:0000:0ab8:0001:0000:1000?,2001:db8::ab8:1:0:1000
+Which is the compressed format of the IPv6 address fe80:0000:0000:0000:0220:0b3f:f0e0:0029?,fe80::220:b3f:f0e0:29
+Which is the compressed format of the IPv6 address 2001:0db8:0000:0000:0000:a0b0:0008:0001?,2001:db8::a0b0:8:1
+Which is the compressed format of the IPv6 address fe80:09ea:0000:2200:0000:0000:0fe0:0290?,fe80:9ea:0:2200::fe0:290
+Which is the compressed format of the IPv6 address fe80:9ea0:0000:2020:0000:00bf:00e0:9290?,fe80:9ea0::2020:0:bf:e0:9290
+What ACPI power state describes when the CPU and RAM are off and the contents of RAM have been saved to a temporary file on the hard drive?,S4
+What ACPI power state describes when the CPU and RAM are still receiving power but unused devices are powered down?,S1
+What ACPI power state describes when the CPU is off but the RAM is refreshed?,S2
+What ACPI power state describes when the computer is off?,S5
+What ACPI power state describes when the computer is off?,
+What ACPI power state describes when the CPU is off and the RAM is set to a slow refresh rate often called suspend mode?,S3
+What ACPI power state describes when the computer is on and the CPU is running?,S0
+What ACPI power state describes when the CPU and RAM are still receiving power but unused devices are powered down?,S1
+What ACPI power state describes when the CPU and RAM are off and the contents of RAM have been saved to a temporary file on the hard drive?,S4
+What ACPI power state describes when the computer is off?,S5
+A reporter is trying to print several high resolution photographs but the color laser printer is going extremely slowly. What should the technician do to resolve the issue?,Add more RAM to the printer.
+A new printer has just been installed deep in a mine. When test pages are printed the paper constantly jams. What should the technician do to resolve the issue?,Move the printer to a less-humid location.
+A user complains that recently every printed document has vertical lines and streaks on the paper. What should the technician do to resolve the issue?,Distribute the toner more evenly within the cartridge.
+A user complains that recently every printed document has vertical lines and streaks on the paper. What should the technician do to resolve the issue?,Distribute the toner more evenly within the cartridge.
+A school is installing a new shared printer but the printer is not showing up on the list of available printers. What should the technician do to resolve the issue?,Manually add the printer IP address.
+A school is installing a new shared printer but the printer is not showing up on the list of available printers. What should the technician do to resolve the issue?,Manually add the printer IP address.
+Employees are complaining that they send print jobs to a newly installed printer but the print jobs never print. What should the technician do to resolve the issue?,The printer is connected to the wrong port. Modify the port.
+Users have noticed that the colors on their printed documents are different from the colors that they see on their computer screens. What should the technician do to resolve the issue?,Calibrate the printer.
+A technician has just completed a preventive maintenance on the department printer. Users are now complaining that the printer is no longer available. What should the technician do to resolve the issue?,Check that the printer is plugged into a power source.
+Employees of a small business are complaining that the printer is printing faded images. What should the technician do to resolve the issue?,Replace the toner cartridge.
+A photographer is complaining about the following printer issue: The printer issues a “Document failed to print” message. What are two possible causes of this issue? (Choose two.),A cable is loose or disconnected.-The printer is no longer shared.
+A reporter is complaining about the following printer issue: The printer is printing unknown characters. What are two possible causes of this issue? (Choose two.),The wrong or an outdated printer driver is installed.-The printer has a loose connection.
+A manager is complaining about the following printer issue: The printer is printing incorrect colors. What are two possible causes of this issue? (Choose two.),The print heads might need to be cleaned and calibrated.-An incorrect cartridge could be installed.
+A librarian is complaining about the following printer issue: The printer control panel displays no image. What are two possible causes of this issue? (Choose two.),The toner cartridge is low.-The paper might be incompatible with the printer.
+A teacher is complaining about the following printer issue: The paper is creased after printing. What are two possible causes of this issue? (Choose two.),The paper-feed tray might not be firmly adjusted against the edges of the printer.-The paper might be loaded incorrectly.
+A receptionist is complaining about the following printer issue: My impact printer produces faded or light characters. What are two possible causes of this issue? (Choose two.),The ribbon may be worn out.-The ribbon may be damaged.
+A photographer is complaining about the following printer issue: The paper is not being fed into the printer. What are two possible causes of this issue? (Choose two.),The paper may be wrinkled.-The printer could be set to print to a different paper size than is currently loaded.
+A reporter is complaining about the following printer issue: The printer is printing unknown characters. What are two possible causes of this issue? (Choose two.),The wrong or an outdated printer driver is installed.-The printer has a loose connection.
+A manager is complaining about the following printer issue: The printer is printing incorrect colors. What are two possible causes of this issue? (Choose two.),The print heads might need to be cleaned and calibrated.-An incorrect cartridge could be installed.
+A laptop has an NVMe drive (C:) and a mechanical hard drive (D:). When the user tries to save a spreadsheet to the D: drive the user notices that the D: drive is not there. What should the technician do to see if the drive is recognized by the operating system?,Use the Disk Management Control Panel.
+A computer has two mechanical hard drives. The second drive (D:) is used for data storage. When trying to save an email attachment to the local hard drive the user notices that the D: drive is not an option. What should the technician do to see if the drive is recognized by the operating system?,Use File Explorer.
+A user reports that a drive is no longer there. The technician asks the user to demonstrate the problem. Within the application the user demonstrates that the drive that was present in the save options yesterday is now no longer an option. What should the technician do to see if the drive is recognized by the operating system?,Use Device Manager.
+A computer has two mechanical hard drives. The second drive (D:) is used for data storage. When trying to save an email attachment to the local hard drive the user notices that the D: drive is not an option. What should the technician do to see if the drive is recognized by the operating system?,Use File Explorer.
+A computer has an SSD for the operating system and applications and uses another mechanical hard drive for data storage. The user reports that data can no longer be saved to the mechanical hard drive. What should the technician do to see if the drive is recognized by the operating system?,Use File Explorer.
+A user reports that a drive is no longer there. The technician asks the user to demonstrate the problem. Within the application the user demonstrates that the drive that was present in the save options yesterday is now no longer an option. What should the technician do to see if the drive is recognized by the operating system?,Use Device Manager.
+A laptop has an NVMe drive (C:) and a mechanical hard drive (D:). When the user tries to save a spreadsheet to the D: drive the user notices that the D: drive is not there. What should the technician do to see if the drive is recognized by the operating system?,Use the Disk Management Control Panel.
+A computer has an SSD for the operating system and applications and uses another mechanical hard drive for data storage. The user reports that data can no longer be saved to the mechanical hard drive. What should the technician do to see if the drive is recognized by the operating system?,Use Device Manager.
+A laptop has an NVMe drive (C:) and a mechanical hard drive (D:). When the user tries to save a spreadsheet to the D: drive the user notices that the D: drive is not there. What should the technician do to see if the drive is recognized by the operating system?,Use the Disk Management Control Panel.
+A computer has an SSD for the operating system and applications and uses another mechanical hard drive for data storage. The user reports that data can no longer be saved to the mechanical hard drive. What should the technician do to see if the drive is recognized by the operating system?,Use File Explorer.
+A technician is working on a laptop and the GPS is not functioning. What is a probable cause for this situation?,A service is disabled.
+A technician is working on a laptop and the GPS is not functioning. What is a probable cause for this situation?,Airplane mode is turned on.
+A technician is working on a laptop and the GPS is not functioning. What is a probable cause for this situation?,Airplane mode is turned on.
+A technician is working on a laptop and the GPS is not functioning. What is a probable cause for this situation?,Airplane mode is turned on.
+A technician is working on a laptop and an app is not loading. What is a probable cause for this situation?,An app needs to be restarted.
+A technician is working on a laptop and an app is not loading. What is a probable cause for this situation?,An app needs to be restarted.
+A technician is working on a laptop and an app is not responding. What is a probable cause for this situation?,An app needs to be restarted.
+A technician is working on a laptop and an app is not responding. What is a probable cause for this situation?,An app needs to be restarted.
+A technician is working on a laptop and an error message about decryption appears when opening an email. What is a probable cause for this situation?,A digital certificate is missing.
+A technician is working on a laptop and an error message about decryption appears when opening an email. What is a probable cause for this situation?,A digital certificate is missing.
+Students who use the same printer are complaining that recently printed documents contain unknown characters. What should the technician do to resolve the issue?,Re-install the printer driver.
+Students who use the same printer are complaining that recently printed documents contain unknown characters. What should the technician do to resolve the issue?,Re-install the printer driver.
+An office assistant in a law firm is trying to print many large legal documents but is getting “memory overload” error messages from the printer. What should the technician do to resolve the issue?,Add more memory to the printer.
+An office assistant in a law firm is trying to print many large legal documents but is getting “memory overload” error messages from the printer. What should the technician do to resolve the issue?,Add more memory to the printer.
+A user is complaining that the printer is printing pages with no image on them. What should the technician do to resolve the issue?,Replace the toner cartridge.
+Students who use the same printer are complaining that recently printed documents contain unknown characters. What should the technician do to resolve the issue?,Re-install the printer driver.
+Students who use the same printer are complaining that recently printed documents contain unknown characters. What should the technician do to resolve the issue?,Re-install the printer driver.
+Users have noticed that the colors on their printed documents are different from the colors that they see on their computer screens. What should the technician do to resolve the issue?,Calibrate the printer.
 Step1:,Identify the problem.
 Step2:,Establish a theory of probable cause.
 Step3:,Test the theory to determine the cause.
 Step4:,Establish a plan of action to resolve the problem and implement the solution.
 Step5:,Verify full system functionallity and if applicable, implement preventive measures.
 Step6:,Document findings actions and outcomes.
-
 It's connector has 184 pins and is able to support two writes and two reads per CPU clock cycle:,DDR SDRAM
 It's connector has 240 pins and consumes 1.8 Volts of power:,DDR2 SDRAM
 It's connector has 240 pins and consumes 1.5 Volts of power:,DDR3 SDRAM
 It's connector has 288 pins and has advanced error correction features available:,DDR4 SDRAM
-
 MTP Replace the motherboard:,The motherboard capacitors are distended, swollen, emitting residue, or bulging.
 MTP Check fo faulting cable, damaged or mis-seated CPU or other motherbard component prior to replacing the motherboard if required:,The user can hear the fans spinning but the PC will not start and there are no beeps from the speaker.
 MTP Update the BIOS firmware:,After upgrading the single core CPU to a dual core CPU only one CPU graph is seen in the task manager.

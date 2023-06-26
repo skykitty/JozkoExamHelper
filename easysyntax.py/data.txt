@@ -1,5 +1,31 @@
-What is the capital of India?,New Delhi
-How many states are there in India?,29
-Is India a country?,Yes
-Where is Taj Mahal?,Agra
-Which is the largest state in India?,Rajasthan
+Why would a university student need to use the robocopy command?,to copy a group of files from one Windows directory to another
+Why would a university student need to use the xcopy command?,to copy files directories and subdirectories from one location to another
+Why would a technical support representative need to use the format command?,to prepare a hard drive to accept Windows files
+Why would a technical support representative need to use the bootrec command?,to help to repair the MBR that is suspected of having issues
+Why would a technical support representative need to use the ipconfig command?,to display the IPv6 address of the PC
+Why would a user need to use the netstat command?,to verify activity on the PC by displaying all active TCP connections on the device
+Why would a user need to use the nslookup command?,to query the Domain Name Sysytem (DNS) to get domain names and mapping information
+Why would a manager need to use the ping command?,to quickly verify connectivity by sending echo-request messages to the destination and receiving a series of echo-reply messages from that destination
+Step One:,The Windows boot loader Winload.exe loads.
+Step Two:,Ntoskrnl.exe and hal.dll are loaded.
+Step Three:,Winload.exe reads the Registry chooses a hardware profile and loads the device drivers.
+Step Four:,Ntoskrnl.exe takes over the process.
+Step Five:,Winlogon.exe is loaded and executes the logon process.
+MTC This is a cross-platform standard specification for multimedia graphics.,Open Graphics Library (OpenGL)
+MTC This is a collection of APIs related to multimedia tasks for Microsoft Windows.,DirectX
+MTC This allows applications from older versions of Windows to operate on newer versions.,Windows APIs
+MTC This is a collection of APIs related to the development of Java programming, Java APIs
+MTT Allows for a process to have its affinity set.,Details
+MTT Displays resource utilization information for CPU memory network disk and others,Performance
+MTT Allows programs that are running on system startup to be disabled.,Startup
+MTT Allows for a start stop or restart of a particular service.,Services
+MTD a volume that is functioning properly, Healthy
+MTD a basic disk that is being converted into a dynamic disk,Initializing
+MTD a disk that does not contain a valid signature,Not Initialized
+MTD a basic dynamic disk that is accessible and shows no problems,Online
+MTD a dynamic disk that is corrupted or unavailable,Offline
+MTW The Advanced Encryption Standard (AES) cipher and preshared keys (PSKS) are used to encrypt communications.,WPA2-Personal
+MTW Authentication is passed from the access point to a centralized authentication RADIUS server.,WPA2-Enterprise
+MTW Data is sent unencrypted with no authentication., Open
+MTI Scripting languages, VBScript-Python-JavaScript
+MTI Compiled languages, C++-C#-Java
