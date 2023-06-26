@@ -1,40 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>FAQs</title>
-  <style>
-    .search-container {
-  margin: 5px;
+    <title>Moje webová stránka</title>
+
+    <style>
+        #question-table {
+    width: 100%;
+    border-collapse: collapse;
 }
 
-#searchInput {
-  width: 150px;
-  padding: 2px;
-  font-size: 16px;
+/* Styly pro řádky tabulky */
+#question-table tr {
+    border-bottom: 1px solid #ccc;
 }
 
-#faqContainer {
-  margin: 5px;
+/* Styly pro hlavičku tabulky */
+#question-table th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
 }
 
-.faq-item h3 {
-  font-size: 16px;
+/* Styly pro buňky tabulky */
+#question-table td {
+    padding: 10px;
 }
 
-.faq-item p {
-  color: green;
+/* Styly pro vyhledávací pole */
+#search-bar {
+    width: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
-
-
-  </style>
+    </style>
 </head>
 <body>
-  <div class="search-container">
-    <input type="text" id="searchInput" placeholder="Search...">
-    <input type="file" id="csvFileInput" accept=".csv">
-  </div>
-  <div id="faqContainer"></div>
-  
-  <script src="popup.js"></script>
+    <input type="text" id="search-bar" placeholder="Question?">
+    
+    <table id="question-table">
+        <tr>
+            <th>Otázka</th>
+            <th>Odpověď</th>
+        </tr>
+        <!-- Zde budou dynamicky přidávány řádky s otázkami a odpověďmi -->
+    </table>
+    
+    <script src="popup.js"></script>
 </body>
 </html>
