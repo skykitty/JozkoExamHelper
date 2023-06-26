@@ -1,6 +1,14 @@
 What is JavaScript?,JavaScript is a programming language that enables interactivity and dynamic functionality on websites.
 How can I include an external JavaScript file?,You can include an external JavaScript file in your HTML using the <script> tag with the src attribute.
-What is JavaScript?,JavaScript is a programming language that enables interactivity and dynamic functionality on websites.
-How can I include an external JavaScript file?,You can include an external JavaScript file in your HTML using the <script> tag with the src attribute.
-What is JavaScript?,JavaScript is a programming language that enables interactivity and dynamic functionality on websites.
-How can I include an external JavaScript file?,You can include an external JavaScript file in your HTML using the <script> tag with the src attribute.
+What is the difference between == and ===?,The == operator compares only the values of the variables, while the === operator compares both the values and types of the variables.
+What is the difference between null and undefined?,Null is an explicit assignment of a non-value, while undefined is an implicit assignment of a non-value.
+What is the difference between a function declaration and a function expression?,A function declaration is hoisted to the top of the scope in which it is defined, while a function expression is not.
+What is the difference between a parameter and an argument?,A parameter is a variable in a function definition, while an argument is the value passed to a function when it is invoked.
+What is the difference between a method and a function?,A method is a function that is a property of an object, while a function is a property of the global object.
+What is the difference between call and apply?,The call method takes in arguments separately, while the apply method takes in arguments as an array.
+What is the difference between a named function and an anonymous function?,A named function has a name, while an anonymous function does not.
+What is the difference between a function expression and an IIFE?,A function expression is a function that is assigned to a variable, while an IIFE is a function that is immediately invoked.
+What is the difference between a for loop and a while loop?,A for loop is used to iterate over a range of values, while a while loop is used to iterate over a range of values until a condition is met.
+What is the difference between a for loop and a for-in loop?,A for loop is used to iterate over a range of values, while a for-in loop is used to iterate over the properties of an object.
+What is the difference between a while loop and a do-while loop?,A while loop checks the condition before executing the code, while a do-while loop executes the code before checking the condition.
+
