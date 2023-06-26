@@ -1,48 +1,41 @@
-// Function to parse CSV data
-function parseCSV(csv) {
-    var lines = csv.split('\n');
-    var result = [];
-  
-    for (var i = 0; i < lines.length; i++) {
-      var data = lines[i].split(',');
-      var question = data[0];
-      var answer = data[1];
-      var faqItem = '<div class="faq-item"><h3>' + question + '</h3><p>' + answer + '</p></div>';
-      result.push(faqItem);
-    }
-  
-    return result.join('');
+// Definujte seznam otázek a odpovědí
+const data = [
+  { otazka: 'První otázka', odpoved: 'První odpověď' },
+  { otazka: 'Druhá otázka', odpoved: 'Druhá odpověď' },
+  { otazka: 'Třetí otázka', odpoved: 'Třetí odpověď' },
+  // Přidejte další otázky a odpovědi podle potřeby
+];
+
+// Funkce pro vykreslení tabulky s otázkami a odpověďmi
+function renderTable() {
+  const table = document.getElementById('question-table');
+
+  // Vyčistění obsahu tabulky
+  while (table.rows.length > 1) {
+      table.deleteRow(1);
   }
-  
-  // Function to read the CSV file
-  function readCSVFile(file) {
-    var reader = new FileReader();
-    reader.onload = function(event) {
-      var contents = event.target.result;
-      var faqContainer = document.getElementById('faqContainer');
-      faqContainer.innerHTML = parseCSV(contents);
-    };
-    reader.readAsText(file);
-  }
-  
-  // Event listener for file input
-  document.getElementById('csvFileInput').addEventListener('change', function(event) {
-    var file = event.target.files[0];
-    readCSVFile(file);
+
+  const searchTerm = document.getElementById('search-bar').value.toLowerCase();
+
+  // Filtrujeme otázky na základě hledaného výrazu
+  const filteredData = data.filter(item =>
+      item.otazka.toLowerCase().includes(searchTerm) ||
+      item.odpoved.toLowerCase().includes(searchTerm)
+  );
+
+  // Vykreslení řádků tabulky pro každou odpovídající otázku a odpověď
+  filteredData.forEach(item => {
+      const row = table.insertRow();
+      const questionCell = row.insertCell(0);
+      const answerCell = row.insertCell(1);
+
+      questionCell.innerHTML = item.otazka;
+      answerCell.innerHTML = item.odpoved;
   });
-  
-  // Event listener for search input
-  document.getElementById('searchInput').addEventListener('input', function(event) {
-    var searchTerm = event.target.value.toLowerCase();
-    var faqItems = document.getElementsByClassName('faq-item');
-    
-    Array.from(faqItems).forEach(function(item) {
-      var question = item.querySelector('h3').textContent.toLowerCase();
-      if (question.includes(searchTerm)) {
-        item.style.display = 'block';
-      } else {
-        item.style.display = 'none';
-      }
-    });
-  });
-  
+}
+
+// Při načtení stránky vykreslíme tabulku
+window.onload = renderTable;
+
+// Při změně hodnoty v hledacím poli vykreslíme tabulku znovu
+document.getElementById('search-bar').addEventListener('input', renderTable);

@@ -1,40 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>FAQs</title>
-  <style>
-    .search-container {
-  margin: 5px;
-}
-
-#searchInput {
-  width: 150px;
-  padding: 2px;
-  font-size: 16px;
-}
-
-#faqContainer {
-  margin: 5px;
-}
-
-.faq-item h3 {
-  font-size: 16px;
-}
-
-.faq-item p {
-  color: green;
-}
-
-
-  </style>
+    <title>Moje webová stránka</title>
 </head>
 <body>
-  <div class="search-container">
-    <input type="text" id="searchInput" placeholder="Search...">
-    <input type="file" id="csvFileInput" accept=".csv">
-  </div>
-  <div id="faqContainer"></div>
-  
-  <script src="popup.js"></script>
+    <input type="text" id="search-bar" placeholder="Zadejte hledaný výraz">
+    
+    <table id="question-table">
+        <tr>
+            <th>Otázka</th>
+            <th>Odpověď</th>
+        </tr>
+        <!-- Zde budou dynamicky přidávány řádky s otázkami a odpověďmi -->
+    </table>
+    
+    <script src="script.js"></script>
 </body>
 </html>
