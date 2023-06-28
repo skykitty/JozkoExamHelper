@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Jozkos Exam Helper",
+    "name": "Search elements in a page",
     "version": "1.0",
     "description": "Search questions and answers for your final exam",
     "permissions": ["storage"],

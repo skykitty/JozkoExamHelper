@@ -33,6 +33,7 @@ window.onload = renderTable;
 document.getElementById('search-bar').addEventListener('input', renderTable);
 
 const data = [
+  { otazka: 'Default', odpoved: 'There are no visible elements to preview for this webpage. ' }, //zde nejsou žádne prvky anglicky 
   { otazka: 'In which situation would an ESD strike potentially cause harm to the PC?', odpoved: 'when replacing a mechanical hard drive with an M.2 SSD' },
   { otazka: 'A person has started a new technical job. In which situation would ESD be an issue?', odpoved: 'when installing a processor' },
   { otazka: 'A technician is about to begin preventive maintenance on a company PC. In which situation would ESD be an issue?', odpoved: 'when replacing a motherboard' },
